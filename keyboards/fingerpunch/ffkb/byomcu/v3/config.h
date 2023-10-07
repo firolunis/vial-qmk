@@ -53,8 +53,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENCODERS_C_REVERSE
 #endif
 
-
-#define ENCODER_RESOLUTION 1
+#define ENCODER_RESOLUTION 4
 
 #ifdef CIRQUE_ENABLE
   // cirque trackpad config
